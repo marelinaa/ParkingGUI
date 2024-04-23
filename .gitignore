@@ -25,6 +25,12 @@ xcuserdata/
 # IDE
 *.idea
 *.iml
+*.class
+*.jar
+Nbproject
+Out
+dist
+build
  
 # Generated files
 /web-app/WEB-INF
